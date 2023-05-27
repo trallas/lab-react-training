@@ -1,0 +1,14 @@
+.Random {
+    border: 4px solid black;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    list-style: square
+}
+
+span {
+    font-weight: bold;
+}
